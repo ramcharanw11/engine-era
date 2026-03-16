@@ -4,7 +4,7 @@ import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 // Pages (we'll build these in Phase 3)
 import HomePage from './pages/HomePage';
 import PostDetailPage from './pages/PostDetailPage';
-import CategoryPage from './pages/CategoryPage';
+import CategoryPage from './pages/CategoryPage';                         
 import SearchResultsPage from './pages/SearchResultsPage';
 import AdminDashboard from './pages/AdminDashboard';
 import LoginPage from './pages/LoginPage';
